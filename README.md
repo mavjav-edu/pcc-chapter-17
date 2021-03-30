@@ -162,4 +162,4 @@ In [*python_repos.py*](python_repos.py), we printed the value of `status_code` t
 
 &nbsp; | &nbsp; | &nbsp; | &nbsp;
 ----|----|----|----
-[&#10094; Prev](../pcc-chapter-16)| &nbsp; | &nbsp; | &nbsp;[Next &#10095;](../pcc-chapter-18)
+[&#10094; Prev](../../../pcc-chapter-16)| &nbsp; | &nbsp; | &nbsp;[Next &#10095;](../../../pcc-chapter-18)
