@@ -9,7 +9,7 @@ visualization. Because programs written like this will always use
 current data to generate a visualization, even when that data might be
 rapidly changing, it will always be up to date.
 
-## TRY IT YOURSELF #1
+## TRY IT YOURSELF Ⓐ
 
 <span id="ch17exe1"></span>**17-1. Other Languages:** Modify the API
 call in *python_repos.py* so it generates a chart showing the most
