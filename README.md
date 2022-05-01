@@ -1,4 +1,4 @@
-# Working With Apis
+# Working With APIs
 
 In this chapter you’ll learn how to write a self-contained program to
 generate a visualization based on data that it retrieves. Your program
